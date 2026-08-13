@@ -1,16 +1,15 @@
-## Hi there 👋
+Gregorio von Hildebrand
 
-<!--
-**GvHildebrand/GvHildebrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Builder and advisor. Based in Costa Rica.
 
-Here are some ideas to get you started:
+I run Dear Wise Earth — land intelligence and pre-acquisition due diligence for family offices and private buyers across Latin America — and SOVRAN, where I publish open tools for people who want AI working for them, not the other way around.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills I maintain
+Skill	What it does
+pre-duediligence-skill	Institutional-grade pre-acquisition report for any land or hospitality asset — 16 sections, sourced, confidence-tagged, delivered as a PDF
+claim-back (coming soon)	Fights your stuck airline refund through every escalation layer — EU261, US DOT, chargebacks, regulators — locally, for free
+How to work with me
+Land advisory — pre-DD, full thesis, or fractional steward retainer → dearwise.earth
+SOVRAN — open tools, 1:1 sessions, and operator training → sovran.works
+
+I build in public. Star a repo if it's useful — it helps more people find it.
